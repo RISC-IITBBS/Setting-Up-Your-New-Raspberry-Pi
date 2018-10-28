@@ -1,5 +1,5 @@
-# Raspbian OS - OS for Raspberry Pi
-- Download at https://www.raspberrypi.org/downloads/raspbian/
+# Booting Up Your Raspberry Pi using Raspbian OS
+- Download Raspbian OS at https://www.raspberrypi.org/downloads/raspbian/
 - The above link has 2 types of Raspbian OS
   - Raspbian With Desktop
   - Raspbian Lite.
